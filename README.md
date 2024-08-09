@@ -24,4 +24,4 @@ A React.js application that allows users to convert currencies using a third-par
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/muazzam51214/currencyChanger
+   git clone https://github.com/muazzam51214/currencyChanger.git
