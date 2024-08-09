@@ -10,7 +10,7 @@ A React.js application that allows users to convert currencies using a third-par
 
 ## Demo
 
-[Live Demo](https://currency-changer-i5n4r509c-syed-muazzam-abbas-projects.vercel.app/)
+<a href="https://currency-changer-i5n4r509c-syed-muazzam-abbas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 ## Installation
 
