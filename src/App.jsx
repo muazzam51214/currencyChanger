@@ -6,7 +6,7 @@ const BackgroundImage =
   "https://media.istockphoto.com/id/1449224970/photo/abstract-financial-graph-with-up-trend-line-candlestick-chart-in-stock-market-on-neon-light.webp?b=1&s=170667a&w=0&k=20&c=Mrs34QbkHhutPP7z9CNq5ubwiX5cJHylEdWTNduHSCA=";
 
 const App = () => {
-  const [amount, setAmount] = useState(0);
+  const [amount, setAmount] = useState(1);
   const [from, setFrom] = useState("usd");
   const [to, setTo] = useState("pkr");
   const [convertedAmount, setConvertedAmount] = useState(0);
