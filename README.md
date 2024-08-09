@@ -10,7 +10,7 @@ A React.js application that allows users to convert currencies using a third-par
 
 ## Demo
 
-[Live Demo](https://example.com) (Replace with the actual URL if available)
+[Live Demo](https://github.com/muazzam51214/currencyChanger.git)
 
 ## Installation
 
