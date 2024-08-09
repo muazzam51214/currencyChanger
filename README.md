@@ -25,3 +25,18 @@ A React.js application that allows users to convert currencies using a third-par
 
    ```bash
    git clone https://github.com/muazzam51214/currencyChanger.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd currencyChanger
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+
+4. **Run the application:**
+
+   ```bash
+   npm run dev
